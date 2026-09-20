@@ -12,14 +12,6 @@ A variant of Breeze Dark optimized for OLED displays, with true black background
 
 Open:
 
-**System Settings → Colors & Themes → Colors → Get New…**
-
-Search for **Breeze Dark OLED** and install it.
-
-### From a downloaded file
-
-Open:
-
 **System Settings → Colors & Themes → Colors**
 
 Click **Install from File…** and select `BreezeDarkOLED.colors`.
