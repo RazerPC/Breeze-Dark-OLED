@@ -1,3 +1,7 @@
+# Breeze Dark OLED
+# Based on KDE Breeze Dark.
+# A variant of Breeze Dark optimized for OLED displays, with true black backgrounds for a cleaner look and reduced power consumption.
+
 [ColorEffects:Disabled]
 Color=56,56,56
 ColorAmount=0
@@ -19,8 +23,8 @@ IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=0,0,0
-BackgroundNormal=0,0,0
+BackgroundAlternate=18,18,18
+BackgroundNormal=14,14,14
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
@@ -33,7 +37,35 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Complementary]
+BackgroundAlternate=8,8,8
+BackgroundNormal=0,0,0
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=161,169,177
+ForegroundLink=29,153,243
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:Header]
 BackgroundAlternate=0,0,0
+BackgroundNormal=8,8,8
+DecorationFocus=61,174,233
+DecorationHover=61,174,233
+ForegroundActive=61,174,233
+ForegroundInactive=161,169,177
+ForegroundLink=29,153,243
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:Header][Inactive]
+BackgroundAlternate=8,8,8
 BackgroundNormal=0,0,0
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
@@ -47,7 +79,7 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Selection]
-BackgroundAlternate=0,0,0
+BackgroundAlternate=30,87,116
 BackgroundNormal=61,174,233
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
@@ -62,7 +94,7 @@ ForegroundVisited=155,89,182
 
 [Colors:Tooltip]
 BackgroundAlternate=0,0,0
-BackgroundNormal=0,0,0
+BackgroundNormal=8,8,8
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
@@ -75,7 +107,7 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:View]
-BackgroundAlternate=0,0,0
+BackgroundAlternate=8,8,8
 BackgroundNormal=0,0,0
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
@@ -105,16 +137,17 @@ ForegroundVisited=155,89,182
 [General]
 ColorScheme=BreezeDarkOLED
 Name=Breeze Dark OLED
-TitlebarIsAccentColored=false
+Name[it]=Breeze Dark OLED
 shadeSortColumn=true
 
 [KDE]
-contrast=4
+contrast=-1
+frameContrast=0.2
 
 [WM]
 activeBackground=0,0,0
 activeBlend=252,252,252
 activeForeground=252,252,252
-inactiveBackground=0,0,0
+inactiveBackground=8,8,8
 inactiveBlend=161,169,177
 inactiveForeground=161,169,177
