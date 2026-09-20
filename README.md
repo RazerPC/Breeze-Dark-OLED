@@ -14,7 +14,7 @@ Breeze Dark OLED is available on the KDE Store:
 
 https://store.kde.org/p/2372291/
 
-If you like it, please leave a good rating — more ratings help improve its visibility and make it easier for others to discover ❤️
+If you like it, please leave a good rating, more ratings help improve its visibility and make it easier for others to discover ❤️
 
 ## Installation
 
