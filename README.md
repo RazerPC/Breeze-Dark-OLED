@@ -2,7 +2,7 @@
 
 A variant of Breeze Dark optimized for OLED displays, with true black backgrounds for a cleaner look and reduced power consumption.
 
-## Screenshots
+## Screenshot
 
 <a href="screenshots/preview.png">
   <img src="screenshots/preview.png" alt="Breeze Dark OLED preview" width="800">
