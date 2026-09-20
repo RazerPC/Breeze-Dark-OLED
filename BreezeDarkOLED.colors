@@ -1,10 +1,6 @@
 # Breeze Dark OLED
-# An OLED-optimized modification of KDE Breeze Dark.
-#
-# SPDX-License-Identifier: LGPL-2.0-or-later
-#
-# This color scheme is derived from KDE Breeze Dark and is distributed
-# under the GNU Lesser General Public License v2.0 or later.
+# Based on KDE Breeze Dark.
+# A variant of Breeze Dark optimized for OLED displays, with true black backgrounds for a cleaner look and reduced power consumption.
 
 [ColorEffects:Disabled]
 Color=56,56,56
