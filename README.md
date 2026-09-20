@@ -2,6 +2,10 @@
 
 A variant of Breeze Dark optimized for OLED displays, with true black backgrounds for a cleaner look and reduced power consumption.
 
+## Screenshots
+
+![Breeze Dark OLED](screenshots/screenshot.png)
+
 ## KDE Store
 
 Breeze Dark OLED is available on the KDE Store:
