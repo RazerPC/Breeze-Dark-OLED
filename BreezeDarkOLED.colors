@@ -103,8 +103,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [General]
-ColorScheme=BreezeDark
-Name=Breeze Dark OLED Full Black
+ColorScheme=BreezeDarkOLED
+Name=Breeze Dark OLED
 TitlebarIsAccentColored=false
 shadeSortColumn=true
 
