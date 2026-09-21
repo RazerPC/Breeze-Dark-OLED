@@ -12,7 +12,7 @@ A variant of Breeze Dark optimized for OLED displays, with true black background
 https://store.kde.org/p/2372291/
 
 **Plasma Style**  
-https://www.opendesktop.org/p/2372444/
+https://store.kde.org/p/2372444/
 
 > [!TIP]
 > If you like Breeze Dark OLED, please leave a good rating ❤️  
