@@ -2,37 +2,55 @@
 
 A variant of Breeze Dark optimized for OLED displays, with true black backgrounds for a cleaner look and reduced power consumption.
 
-## Screenshot
-
-<a href="screenshots/preview.png">
-  <img src="screenshots/preview.png" alt="Breeze Dark OLED preview" width="800">
-</a>
-
 ## KDE Store
 
-Breeze Dark OLED is available on the KDE Store:
+### Color Scheme
 
 https://store.kde.org/p/2372291/
 
-If you like it, please leave a good rating, more ratings help improve its visibility ❤️
+### Plasma Style
+
+https://www.opendesktop.org/p/2372444/
+
+If you like Breeze Dark OLED, please leave a good rating — more ratings help improve its visibility and make it easier for others to discover ❤️
 
 ## Installation
 
-### KDE Store
+### Color Scheme
+
+#### KDE Store
 
 Open:
 
 **System Settings → Colors & Themes → Colors → Get New…**
 
-Search for **Breeze Dark OLED** and install it.
+Search for **Breeze Dark OLED**, install it, then apply it.
 
-### From a downloaded file
+#### From a downloaded file
 
 Open:
 
 **System Settings → Colors & Themes → Colors**
 
-Click **Install from File…** and select `BreezeDarkOLED.colors`.
+Click **Install from File…**, select `BreezeDarkOLED.colors`, then apply it.
+
+### Plasma Style
+
+#### KDE Store
+
+Open:
+
+**System Settings → Colors & Themes → Plasma Style → Get New…**
+
+Search for **Breeze Dark OLED**, install it, then apply it.
+
+#### From a downloaded file
+
+Open:
+
+**System Settings → Colors & Themes → Plasma Style**
+
+Click **Install from File…**, select the downloaded Plasma Style package, then apply it.
 
 ## Upstream
 
