@@ -22,7 +22,7 @@ If you like Breeze Dark OLED, please leave a good rating — more ratings help i
 
 ### Color Scheme
 
-## KDE Store
+#### Install from KDE Store
 
 Open:
 
@@ -30,7 +30,7 @@ Open:
 
 Search for **Breeze Dark OLED**, install it, then apply it.
 
-#### From a downloaded file
+#### Install from a downloaded file
 
 Open:
 
@@ -38,9 +38,12 @@ Open:
 
 Click **Install from File…**, select `BreezeDarkOLED.colors`, then apply it.
 
+
+---
+
 ### Plasma Style
 
-## KDE Store
+#### Install from KDE Store
 
 Open:
 
@@ -48,13 +51,14 @@ Open:
 
 Search for **Breeze Dark OLED**, install it, then apply it.
 
-#### From a downloaded file
+#### Install from a downloaded file
 
 Open:
 
 **System Settings → Colors & Themes → Plasma Style**
 
 Click **Install from File…**, select the downloaded Plasma Style package, then apply it.
+
 
 ## Upstream
 
