@@ -32,7 +32,7 @@ Search for **Breeze Dark OLED**, install it, then apply it.
 
 > **System Settings → Colors & Themes → Colors**
 
-Click **Install from File…**, select `BreezeDarkOLED.colors`, then apply it.
+Click **Install from File…**, select `Breeze-Dark-OLED.colors`, then apply it.
 
 ---
 
@@ -48,7 +48,7 @@ Search for **Breeze Dark OLED**, install it, then apply it.
 
 > **System Settings → Colors & Themes → Plasma Style**
 
-Click **Install from File…**, select the downloaded Plasma Style package, then apply it.
+Click **Install from File…**, select `Breeze-Dark-OLED-Plasma.tar.gz`, then apply it.
 
 ## Upstream
 
